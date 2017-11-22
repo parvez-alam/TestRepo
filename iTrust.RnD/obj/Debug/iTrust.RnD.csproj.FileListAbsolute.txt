@@ -1,0 +1,8 @@
+D:\Projects\iTrust\R&D\Project\iTrust.RnD\iTrust.RnD\bin\Debug\iTrust.RnD.exe.config
+D:\Projects\iTrust\R&D\Project\iTrust.RnD\iTrust.RnD\bin\Debug\iTrust.RnD.exe
+D:\Projects\iTrust\R&D\Project\iTrust.RnD\iTrust.RnD\bin\Debug\iTrust.RnD.pdb
+D:\Projects\iTrust\R&D\Project\iTrust.RnD\iTrust.RnD\bin\Debug\NetSpell.SpellChecker.dll
+D:\Projects\iTrust\R&D\Project\iTrust.RnD\iTrust.RnD\bin\Debug\NetSpell.SpellChecker.xml
+D:\Projects\iTrust\R&D\Project\iTrust.RnD\iTrust.RnD\obj\Debug\iTrust.RnD.csprojResolveAssemblyReference.cache
+D:\Projects\iTrust\R&D\Project\iTrust.RnD\iTrust.RnD\obj\Debug\iTrust.RnD.exe
+D:\Projects\iTrust\R&D\Project\iTrust.RnD\iTrust.RnD\obj\Debug\iTrust.RnD.pdb
